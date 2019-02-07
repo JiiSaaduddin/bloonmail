@@ -6,29 +6,36 @@ Read more http://www.gnu.org/licenses/agpl-3.0.html
 
 
 # FEATURES
+
 MODERN
 - Wide use of modern browsers' capabilities, like drag'n'drop of files, browser notifications, file upload with progress bar.
 - Rendering messages of any size or complexity. Support for images embedded into messages. Support for multi-language mails.
 - Full functionality control using keyboard, with keyboard shortcuts supported.
+
 TECHNOLOGICAL
 - Supports all modern mail servers which provide IMAP and SMTP support. Special IMAP extensions, including QUOTA, CONDSTORE, SORT and MOVE are supported as well.
 - Supports Sieve scripts (Filters and vacation message)
 - Multi-level caching system allows for increasing application performance and reducing load on mail and web servers.
 - Requires PHP 5.4+ and a few extensions you probably have installed already.
+
 CUSTOMIZABLE
 - Customization of interface layout using visual themes.
+
 SIMPLICITY
 - Really simple interface for installing and upgrading allows for setting up RainLoop Webmail even if you're not really technical.
 - Upgrade tool built into RainLoop Webmail allows to obtain new version or deploy new plugins from admin interface with a single click (Standard edition).
 - The application doesn't use database backend (except contacts), that makes maintaining and configuring it much simpler.
 - Multi-language interface.
+
 SECURITY
 - Allows for working in secure mode with mail servers using SSL and STARTTLS protocols.
 - Client Side OpenPGP (OpenPGP.js)
 - Two-factor Authentication (2FA)
 - Built-in protection system removes hazardous HTML entities for preventing various attacks. In addition, token-based technology is used for protection from CSRF attacks.
+
 EXTENSIBILITY
 - Plugin system allows for extending default functionality with no need to modify the code. That allows for keeping custom functionality - intact through application code updates.
+
 
 # LICENSE AGREEMENT
 
