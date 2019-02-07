@@ -23,15 +23,15 @@ A non-commercial website means:
 - Premium one year subscription (for single web domain).
 - Premium lifetime subscription (for single web domain).
 
-# The term "website" means a single website of a single person or organisation. (In most cases, that would be a single domain, although there could feasibly be multiple websites on a single domain e.g. through the use of subdomains). The website could be your own or a website you build/maintain for someone else.
+The term "website" means a single website of a single person or organisation. (In most cases, that would be a single domain, although there could feasibly be multiple websites on a single domain e.g. through the use of subdomains). The website could be your own or a website you build/maintain for someone else.
 
-# You may not sell, redistribute or offer for download any of our products in any form or in any medium, whether original or modified or for profit or not.
+You may not sell, redistribute or offer for download any of our products in any form or in any medium, whether original or modified or for profit or not.
 
-# You agree not to alter, remove or decode any of the copyright notices or author attribution. 
+You agree not to alter, remove or decode any of the copyright notices or author attribution. 
 (Exception for paid versions)
 
-# You agree not to use the product on illegal sites, or on pages which contain illegal material.
+You agree not to use the product on illegal sites, or on pages which contain illegal material.
 
-# You may not use the product at all in jurisdictions where this agreement is itself illegal, or where you are not empowered to enter into such an agreement.
+You may not use the product at all in jurisdictions where this agreement is itself illegal, or where you are not empowered to enter into such an agreement.
 
-# You guarantee not to hold RainLoop responsible for any problems you may encounter, whether directly or indirectly caused by your use of any of our products.
+You guarantee not to hold RainLoop responsible for any problems you may encounter, whether directly or indirectly caused by your use of any of our products.
